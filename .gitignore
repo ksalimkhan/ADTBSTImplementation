@@ -1,3 +1,4 @@
 #ignoring specific file
 Node.class
 BST.class
+*.class

@@ -1,4 +1,2 @@
-#ignoring specific file
-Node.class
-BST.class
+#ignoring specific files
 *.class

@@ -154,6 +154,4 @@ public class BST {
 		//SECOND BST CREATION AND DELETION
 		System.out.println("BST #2 - After Deletion is Completed: ");
 		bst2.inOrder(); //TRAVERSAL OF THE SECOND BST AFTER DELETION
-
-	}
-}
+				//Doing this to show Xavier something. 
